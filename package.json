@@ -2,7 +2,7 @@
   "name": "burgic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://burgic.github.io/burgic",
+  "homepage": "https://burgic.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
